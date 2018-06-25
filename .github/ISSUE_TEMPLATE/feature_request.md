@@ -1,17 +1,15 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Glossary addition
+about: Suggest an new term for the glossary
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Describe the new term and its definition**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+A clear and concise description of the new glossary term, with
+a definition if you have one. 
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+
+Provide links and URLs of this term in use in publications
+or on the Internet in the context of edge computing.
