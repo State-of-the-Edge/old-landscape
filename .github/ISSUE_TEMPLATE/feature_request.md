@@ -1,5 +1,5 @@
 ---
-name: Glossary addition
+name: Landscape addition
 about: Suggest an new entry for the landscape
 
 ---
